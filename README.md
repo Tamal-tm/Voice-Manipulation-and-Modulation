@@ -1,18 +1,18 @@
 # Voice-Manipulation-and-Modulation
 
-Python Voice & Text Programs
+A. Python Voice & Text Programs
 
 This repository contains Python programs related to voice recognition, text-to-speech (TTS), PDF reading, and translation. The projects demonstrate practical applications of Python for interacting with audio, speech, and PDF content.
 
-Projects Included
+B. Projects Included
 
-Text-to-Speech (TTS) Welcome Program
+1. Text-to-Speech (TTS) Welcome Program
 
 Converts text to speech and speaks messages aloud.
 
 Demonstrates basic TTS functionality and customization.
 
-Voice Translation Program
+2. Voice Translation Program
 
 Records speech from the microphone in one language.
 
@@ -20,7 +20,7 @@ Recognizes the spoken words and translates them to another language.
 
 Useful for real-time language translation applications.
 
-Audiobook Program
+3. Audiobook Program
 
 Reads PDF files aloud page by page.
 
@@ -28,7 +28,7 @@ Converts written text into spoken words, making PDF content accessible.
 
 Can be used for learning, accessibility, or entertainment.
 
-Libraries Used
+C. Libraries Used
 
 pyttsx3 – Text-to-speech engine for Python.
 
@@ -40,7 +40,7 @@ PyAudio – Provides audio input/output functionality.
 
 googletrans – Translates text between languages (or deep-translator for Python 3.13+).
 
-Installation
+D. Installation
 
 Install required libraries via pip:
 
@@ -54,7 +54,7 @@ PyAudio
 
 googletrans (or deep-translator as an alternative)
 
-Highlights
+E. Highlights
 
 Integrates speech recognition, translation, and PDF processing.
 

@@ -4,7 +4,7 @@ A. Python Voice & Text Programs
 
 This repository contains Python programs related to voice recognition, text-to-speech (TTS), PDF reading, and translation. The projects demonstrate practical applications of Python for interacting with audio, speech, and PDF content.
 
-B. Projects Included
+B. --Projects Included
 
 1. Text-to-Speech (TTS) Welcome Program
 
